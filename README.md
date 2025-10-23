@@ -1,4 +1,5 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-am4000
-mkdir
+euid: am4000
+
+favorite linux command: mkdir
